@@ -48,7 +48,7 @@
 
 # sungbae
 <img src="https://user-images.githubusercontent.com/32529187/40643718-045a0818-635c-11e8-98bf-b0223a843b97.jpg" width="220px" height="385">
-<img src="https://user-images.githubusercontent.com/32529187/40643720-04b54fde-635c-11e8-8e2a-5aeb3419c369" width="220px" height="385">
+<img src="https://user-images.githubusercontent.com/32529187/40643719-0488c61c-635c-11e8-8c31-f3b4b687eb4f.jpg" width="220px" height="385">
 <img src="https://user-images.githubusercontent.com/32529187/40643722-05046f1a-635c-11e8-989f-858ab3f4258f.jpg" width="220px" height="385">
 <img src="https://user-images.githubusercontent.com/32529187/40643723-0535c088-635c-11e8-9607-26acb3acdad6.jpg" width="220px" height="385">
 <img src="https://user-images.githubusercontent.com/32529187/40643725-0569112c-635c-11e8-9e03-23ca8e73595d.jpg" width="220px" height="385">
@@ -69,7 +69,7 @@
 <img src="https://user-images.githubusercontent.com/32529187/40643773-1c991f72-635c-11e8-8b7f-bd8ebc8d6bbb.jpg" width="220px" height="385">
 <img src="https://user-images.githubusercontent.com/32529187/40643774-1cc58530-635c-11e8-88e5-2cf6d12c789e.jpg" width="220px" height="385">
 <img src="https://user-images.githubusercontent.com/32529187/40643775-1cf29886-635c-11e8-80b3-e68798919be4.jpg" width="220px" height="385">
-![wands9](https://user-images.githubusercontent.com/32529187/40643776-1d1f61c2-635c-11e8-92cd-6adf61dd5868.jpg)
+<img src="https://user-images.githubusercontent.com/32529187/40643776-1d1f61c2-635c-11e8-92cd-6adf61dd5868.jpg" width="220px" height="385">
 <img src="https://user-images.githubusercontent.com/32529187/40643777-1d539cf8-635c-11e8-81d0-0ad6d0da9c40.jpg" width="220px" height="385">
 <img src="https://user-images.githubusercontent.com/32529187/40643778-1d816a5c-635c-11e8-9119-e1ace3771fa3.jpg" width="220px" height="385">
 <img src="https://user-images.githubusercontent.com/32529187/40643779-1daddcae-635c-11e8-862a-498544d1a2d3.jpg" width="220px" height="385">
