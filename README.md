@@ -2,7 +2,7 @@
 
 # major card
 ![default](https://user-images.githubusercontent.com/32529187/40616683-e8ea9e3e-62c6-11e8-9941-5595ac300053.jpg)
-<img src="https://user-images.githubusercontent.com/32529187/40616683-e8ea9e3e-62c6-11e8-9941-5595ac300053.jpg" width="30%">
+<img src="https://user-images.githubusercontent.com/32529187/40616683-e8ea9e3e-62c6-11e8-9941-5595ac300053.jpg" width="15%">
 ![default](https://user-images.githubusercontent.com/32529187/40616688-ecb62b6e-62c6-11e8-8f46-67a74fab69ab.jpg)
 ![default](https://user-images.githubusercontent.com/32529187/40616692-efa8ae82-62c6-11e8-926e-e9e19399d913.jpg)
 ![default](https://user-images.githubusercontent.com/32529187/40616694-f1449b16-62c6-11e8-9f57-4acc4fcfc8f5.jpg)
