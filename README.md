@@ -25,25 +25,25 @@
 ![default](https://user-images.githubusercontent.com/32529187/40616748-104cfed6-62c7-11e8-9ea5-1ba58788abfc.jpg)
 
 # minor(dong)
-![2](https://user-images.githubusercontent.com/32529187/40616778-2061deea-62c7-11e8-9ae5-1b5e5afbc524.jpg)
-![3](https://user-images.githubusercontent.com/32529187/40616818-464b69e6-62c7-11e8-9ee3-f25aa628dcde.jpg)
-![4](https://user-images.githubusercontent.com/32529187/40616819-48fa8596-62c7-11e8-81d3-b5a85a20845e.jpg)
-![5](https://user-images.githubusercontent.com/32529187/40616821-4a71670a-62c7-11e8-847d-5f6c52c4b339.jpg)
-![6](https://user-images.githubusercontent.com/32529187/40616822-4c6f072e-62c7-11e8-8377-54774b1b36fe.jpg)
-![7](https://user-images.githubusercontent.com/32529187/40616826-4edf6ecc-62c7-11e8-8dd4-6e256696e989.jpg)
-![8](https://user-images.githubusercontent.com/32529187/40616828-4fd72c5c-62c7-11e8-8d8d-614c8e9e3ad8.jpg)
-![9](https://user-images.githubusercontent.com/32529187/40616830-517ce2ea-62c7-11e8-82b3-917795e04cb1.jpg)
-![10](https://user-images.githubusercontent.com/32529187/40616831-5278dc1c-62c7-11e8-94d0-9249c1c840e9.jpg)
-![default](https://user-images.githubusercontent.com/32529187/40616832-542107ec-62c7-11e8-88bf-ef0cbd4e1ce2.jpg)
-![default](https://user-images.githubusercontent.com/32529187/40616833-5531f8e4-62c7-11e8-8f9e-664f45597c84.jpg)
-![default](https://user-images.githubusercontent.com/32529187/40616835-57221026-62c7-11e8-976a-91f770f92e5c.jpg)
-![default](https://user-images.githubusercontent.com/32529187/40616837-595e8dce-62c7-11e8-9dfe-3ff85c3ea3ad.jpg)
-![default](https://user-images.githubusercontent.com/32529187/40616838-5a83a4c8-62c7-11e8-8312-de578f66e987.jpg)
+<img src="https://user-images.githubusercontent.com/32529187/40616778-2061deea-62c7-11e8-9ae5-1b5e5afbc524.jpg" width="220px" height="385">
+<img src="https://user-images.githubusercontent.com/32529187/40616818-464b69e6-62c7-11e8-9ee3-f25aa628dcde.jpg" width="220px" height="385">
+<img src="https://user-images.githubusercontent.com/32529187/40616819-48fa8596-62c7-11e8-81d3-b5a85a20845e.jpg" width="220px" height="385">
+<img src="https://user-images.githubusercontent.com/32529187/40616821-4a71670a-62c7-11e8-847d-5f6c52c4b339.jpg" width="220px" height="385">
+<img src="https://user-images.githubusercontent.com/32529187/40616822-4c6f072e-62c7-11e8-8377-54774b1b36fe.jpg" width="220px" height="385">
+<img src="https://user-images.githubusercontent.com/32529187/40616826-4edf6ecc-62c7-11e8-8dd4-6e256696e989.jpg" width="220px" height="385">
+<img src="https://user-images.githubusercontent.com/32529187/40616828-4fd72c5c-62c7-11e8-8d8d-614c8e9e3ad8.jpg" width="220px" height="385">
+<img src="https://user-images.githubusercontent.com/32529187/40616830-517ce2ea-62c7-11e8-82b3-917795e04cb1.jpg" width="220px" height="385">
+<img src="https://user-images.githubusercontent.com/32529187/40616831-5278dc1c-62c7-11e8-94d0-9249c1c840e9.jpg" width="220px" height="385">
+<img src="https://user-images.githubusercontent.com/32529187/40616832-542107ec-62c7-11e8-88bf-ef0cbd4e1ce2.jpg" width="220px" height="385">
+<img src="https://user-images.githubusercontent.com/32529187/40616833-5531f8e4-62c7-11e8-8f9e-664f45597c84.jpg" width="220px" height="385">
+<img src="https://user-images.githubusercontent.com/32529187/40616835-57221026-62c7-11e8-976a-91f770f92e5c.jpg" width="220px" height="385">
+<img src="https://user-images.githubusercontent.com/32529187/40616837-595e8dce-62c7-11e8-9dfe-3ff85c3ea3ad.jpg" width="220px" height="385">
+<img src="https://user-images.githubusercontent.com/32529187/40616838-5a83a4c8-62c7-11e8-8312-de578f66e987.jpg" width="220px" height="385">
 
 # minor(bong)
-![2](https://user-images.githubusercontent.com/32529187/40616847-5f8dd862-62c7-11e8-995a-d0964fffc226.jpg)
-![3](https://user-images.githubusercontent.com/32529187/40616850-61a22fd6-62c7-11e8-895f-5abaf746e014.jpg)
-![default](https://user-images.githubusercontent.com/32529187/40616856-65600882-62c7-11e8-86f0-1fc7424c9996.jpg)
+<img src="https://user-images.githubusercontent.com/32529187/40616847-5f8dd862-62c7-11e8-995a-d0964fffc226.jpg" width="220px" height="385">
+<img src="https://user-images.githubusercontent.com/32529187/40616850-61a22fd6-62c7-11e8-895f-5abaf746e014.jpg" width="220px" height="385">
+<img src="https://user-images.githubusercontent.com/32529187/40616856-65600882-62c7-11e8-86f0-1fc7424c9996.jpg" width="220px" height="385">
 
 
 # sungbae
