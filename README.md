@@ -1,5 +1,7 @@
 # taro-chatbot
 
+![default](https://user-images.githubusercontent.com/32529187/40784326-54103b14-6520-11e8-8f2c-e6c82b903576.png)
+
 # major card
 ![default](https://user-images.githubusercontent.com/32529187/40616683-e8ea9e3e-62c6-11e8-9941-5595ac300053.jpg)
 ![default](https://user-images.githubusercontent.com/32529187/40616688-ecb62b6e-62c6-11e8-8f46-67a74fab69ab.jpg)
